@@ -1,2 +1,2 @@
 # git-demo
-demo project
+this is for testing purpose
